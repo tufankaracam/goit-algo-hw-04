@@ -64,7 +64,7 @@ test_list = generateList({})
 """
 
 
-counts = [100, 1000, 10000, 25000, 50000]
+counts = [100, 1000, 10000, 25000, 50000, 100000]
 insert_performance = []
 merge_performance = []
 sorted_performance = []
